@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Glory's Portfolio
 
-You can use the [editor on GitHub](https://github.com/volubyliss/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Déménagement Débarras Transport Français](https ://www.demenagement-ddtf.com/),
+site web d’une société de déménagement. Réalisation du design, de la maquette, développement front-end, mise en production et maintenance du site vitrine.
+Technologies :
+Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
