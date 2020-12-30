@@ -1,6 +1,6 @@
 # Welcome to Glory's Portfolio :)
 
-## Online projects
+## Online projects :
 
 ### Déménagement Débarras Transport Français
 
