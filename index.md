@@ -47,7 +47,7 @@ Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git.
 
 _Maquette :_  
 
-![01-Landing page](https://user-images.githubusercontent.com/9435304/103368826-dad15a80-4ac8-11eb-9b66-60d4165d01c8.png)
+![01-Landing page](https://user-images.githubusercontent.com/9435304/103368826-dad15a80-4ac8-11eb-9b66-60d4165d01c8.png) ![02-Your informations](https://user-images.githubusercontent.com/9435304/103369806-5df3b000-4acb-11eb-86a7-e2143f1dde20.png)
 
 ### Markdown
 
