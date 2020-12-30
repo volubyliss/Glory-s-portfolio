@@ -1,6 +1,6 @@
 ## Welcome to Glory's Portfolio
 
-[Déménagement Débarras Transport Français](https ://www.demenagement-ddtf.com/),
+[Déménagement Débarras Transport Français](https://www.demenagement-ddtf.com/),
 site web d’une société de déménagement. Réalisation du design, de la maquette, développement front-end, mise en production et maintenance du site vitrine.
 Technologies :
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.
