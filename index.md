@@ -18,7 +18,7 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
 
 _[Publica Avocats](https://www.publica-avocats.com/)_,  
 Site web d’un cabinet d’avocats.  
-Réalisation du design, de la maquette du site web, développement front-end, mise en production et maintenance du site vitrine.
+Réalisation du design, de la maquette du site web, développement front-end, mise en production et maintenance du site vitrine.  
 Technologies :  
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.
 
