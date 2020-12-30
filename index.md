@@ -1,5 +1,5 @@
 # Welcome to Glory's Portfolio :)
-I am a web developer since 2015.  
+I am web developer since 2015.  
 Actually I'm a freelance since 2016.  
 I've participated to several projects (web app, android app).  
 I also created few web-site in ruby on rails, Javascript; JQuery, postgresql, from the beginning to the end ( UX and UI design, DNS management, development, deployment, instances management, instances maintenance ). Right now I'm working on personal project : the development in ruby on rails and ReactJs of e-commerce web site and in the same time I'm looking for freelance missions.  
