@@ -8,12 +8,19 @@
 [![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)](https://www.demenagement-ddtf.com/)
 
 _[Déménagement Débarras Transport Français](https://www.demenagement-ddtf.com/)_,
-site web d’une société de déménagement. Réalisation du design, de la maquette, développement front-end, mise en production et maintenance du site vitrine.
+Site web d’une société de déménagement. Réalisation du design, de la maquette, développement front-end, mise en production et maintenance du site vitrine.
 Technologies :
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.
 
+### Publica Avocats
+[![Publica-Avocats](https://user-images.githubusercontent.com/9435304/103362862-04cf5080-4aba-11eb-8fc6-30da9d21d588.png)](https://www.publica-avocats.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_[Publica Avocats](https://www.publica-avocats.com/)_
+Site web d’un cabinet d’avocats.
+Réalisation du design, de la maquette du site web, développement front-end, mise en production et maintenance du site vitrine.
+Technologies :
+Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.
+
 
 ### Markdown
 
