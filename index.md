@@ -1,9 +1,10 @@
 # Welcome to Glory's Portfolio :)
-I am web developer since 2015.  
-Actually I'm a freelance since 2016.  
-I've participated to several projects (web app, android app).  
-I also created few web-site in ruby on rails, Javascript; JQuery, postgresql, from the beginning to the end ( UX and UI design, DNS management, development, deployment, instances management, instances maintenance ). Right now I'm working on personal project : the development in ruby on rails and ReactJs of e-commerce web site and in the same time I'm looking for freelance missions.  
-I like to acquire new skills and I am not afraid to face the difficulties of programming.
+  
+I am a freelance web developer since 2015.
+I am always eager to work on new project, I like to acquire new skills and and I am not afraid to face the difficulties of programming.  
+I've worked on several projects (web app, android app). I also created few websites in Ruby on Rails, JavaScript, jQuery, PostgreSQL, through the all products pipeline ( UX and UI design, DNS management, development, deployment, instances management, instances maintenance ).  
+Actually i'm looking for all kind of freelance missions. 
+ 
 
 
 ## Online projects :
@@ -50,35 +51,6 @@ _Maquette :_
 ![01-Landing page](https://user-images.githubusercontent.com/9435304/103368826-dad15a80-4ac8-11eb-9b66-60d4165d01c8.png) ![02-Your informations](https://user-images.githubusercontent.com/9435304/103369806-5df3b000-4acb-11eb-86a7-e2143f1dde20.png) ![03 -Your utility credentials](https://user-images.githubusercontent.com/9435304/103370094-36e9ae00-4acc-11eb-9f65-785e41f72d5d.png)
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-3. and
-4. list
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/volubyliss/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
