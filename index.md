@@ -2,7 +2,7 @@
   
 I am a freelance web developer since 2015.
 I am always eager to work on new project, I like to acquire new skills and and I am not afraid to face the difficulties of programming.  
-I've worked on several projects (web app, android app). I also created few websites in Ruby on Rails, JavaScript, jQuery, PostgreSQL, through the all products pipeline ( UX and UI design, DNS management, development, deployment, instances management, instances maintenance ).  
+I've worked on several projects (web app, android app). I also created few websites in Ruby on Rails, JavaScript, jQuery, PostgreSQL, through the whole products pipeline ( UX and UI design, DNS management, development, deployment, instances management, instances maintenance ).  
 Actually i'm looking for all kind of freelance missions. 
  
 
