@@ -56,6 +56,5 @@ _Maquette :_
 
 _Maquette :_
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="https://user-images.githubusercontent.com/9435304/103559627-bdc8cd00-4eb6-11eb-8b1a-05bd6ad50392.png" width="50%" align="right">
