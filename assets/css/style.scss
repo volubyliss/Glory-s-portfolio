@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 .page-header {
   color:#ffff;
-  background-color:#A067AB;
+  background-color:#3623CD;
 //   background-image:linear-gradient(120deg,#5073B8,#A067AB);
   background-position: center;
   background-repeat: no-repeat;
@@ -13,3 +13,11 @@
   background-image: url("https://user-images.githubusercontent.com/9435304/103571271-df33b400-4eca-11eb-887b-52e3e38904e0.jpg");
   
 }
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #3623CD;
+}
+
+
