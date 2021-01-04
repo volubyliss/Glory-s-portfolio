@@ -49,6 +49,7 @@ Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git.
 _Maquette :_  
 
 
+![Screenshot 2020-12-31 at 16 37 05](https://user-images.githubusercontent.com/9435304/103558358-d3d58e00-4eb4-11eb-8f4d-07d8ecc0b128.png)
 
 
 ### Support or Contact
