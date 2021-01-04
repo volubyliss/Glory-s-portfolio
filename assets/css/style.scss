@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 .page-header {
-  color: black;
-  background: no-repeat center cover url("https://user-images.githubusercontent.com/9435304/103567294-d986a000-4ec3-11eb-932b-2b9729971fcb.jpg");
+  color:#ffff;
+background-color:#A067AB;
+background-image:linear-gradient(120deg,#5073B8,#A067AB);
+//   background: no-repeat center cover url("https://user-images.githubusercontent.com/9435304/103567294-d986a000-4ec3-11eb-932b-2b9729971fcb.jpg");
   
 }
