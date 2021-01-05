@@ -14,36 +14,35 @@ Actually i'm looking for all kind of freelance missions.
 
 ## Online projects :
 
-### [Déménagement Débarras Transport Français
+### [Déménagement Débarras Transport Français](https://www.demenagement-ddtf.com/)
 
 
-![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)](https://www.demenagement-ddtf.com/)
+[![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)](https://www.demenagement-ddtf.com/)
 
   
 Site web d’une société de déménagement.  
-Réalisation du design, de la maquette, développement front-end, mise en production et maintenance du site vitrine.  
+Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.  
 _Technologies :  
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
-### Publica Avocats
+
+### [Publica Avocats](https://www.publica-avocats.com/)
 
 
 [![Publica-Avocats](https://user-images.githubusercontent.com/9435304/103362862-04cf5080-4aba-11eb-8fc6-30da9d21d588.png)](https://www.publica-avocats.com/)
-
-_[Publica Avocats](https://www.publica-avocats.com/)_,    
+    
 Site web d’un cabinet d’avocats.  
-Réalisation du design, de la maquette du site web, développement front-end, mise en production et maintenance du site vitrine.  
+Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.  
 _Technologies :  
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
-### Risun Epi
+### [Risun Epi](https://risunepi.com/)
 
 
 [![Risun Epi](https://user-images.githubusercontent.com/9435304/103365816-3bf53000-4ac1-11eb-964d-c94c4b92684e.png)](https://risunepi.com/)
-
-_[Risun Epi](https://risunepi.com/)_,  
+  
 Usine de fabrication de masques.   
-Page site web en maintenance.  
+Page du site web en maintenance.  
 _Technologies :  
 Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 
