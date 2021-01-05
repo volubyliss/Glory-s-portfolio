@@ -55,7 +55,7 @@ Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 ![Screenshot 2021-01-04 at 17 51 19](https://user-images.githubusercontent.com/9435304/103558823-873e8280-4eb5-11eb-8648-feddad69b5f8.png)
 <img src="https://user-images.githubusercontent.com/9435304/103690896-a9a7cd00-4f95-11eb-8185-292af623c2f1.png" width="33.33%" align="left"><img src="https://user-images.githubusercontent.com/9435304/103691056-d8be3e80-4f95-11eb-9d24-452dc822276a.png" width="33.33%" align="center"><img src="https://user-images.githubusercontent.com/9435304/103691093-eb387800-4f95-11eb-8532-d54c03dcca83.png" width="33.33%" align="right">    
 
-<img src="https://user-images.githubusercontent.com/9435304/103691119-fa1f2a80-4f95-11eb-8e49-d01f58d88843.png" width="48%"><img src="https://user-images.githubusercontent.com/9435304/103691148-06a38300-4f96-11eb-841f-c51044f4545e.png" width="48%" align="right">
+<img src="https://user-images.githubusercontent.com/9435304/103691119-fa1f2a80-4f95-11eb-8e49-d01f58d88843.png" width="50%"><img src="https://user-images.githubusercontent.com/9435304/103691148-06a38300-4f96-11eb-841f-c51044f4545e.png" width="50%" align="right">
 
 Comparateur de fournisseur d’énergie pour le conté de New York. Développement front-end et back-end.
 Réalisation du design et de la maquette du site web.
@@ -68,7 +68,7 @@ Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 
 ![001-login page](https://user-images.githubusercontent.com/9435304/103559552-9a058700-4eb6-11eb-9042-d2c91a719fed.png)
 ![002-welcome Admin](https://user-images.githubusercontent.com/9435304/103559574-a558b280-4eb6-11eb-9bfa-c02ee59e4fe3.png)
-<img src="https://user-images.githubusercontent.com/9435304/103559627-bdc8cd00-4eb6-11eb-8b1a-05bd6ad50392.png" width="48%"><img src="https://user-images.githubusercontent.com/9435304/103559840-126c4800-4eb7-11eb-9a84-bf765182d117.png" width="48%" align="right">  
+<img src="https://user-images.githubusercontent.com/9435304/103559627-bdc8cd00-4eb6-11eb-8b1a-05bd6ad50392.png" width="50%"><img src="https://user-images.githubusercontent.com/9435304/103559840-126c4800-4eb7-11eb-9a84-bf765182d117.png" width="50%" align="right">  
 
 Écrans Android publicitaire déstinés à être mis en place dans différentes boutiques (tabac, pharmacies...).
 Réalisation du design et de la maquette de l’application de diffusion des vidéos publicitaire. Réalisation de l’application sous Android.
