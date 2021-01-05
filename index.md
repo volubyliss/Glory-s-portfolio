@@ -21,7 +21,7 @@ Actually i'm looking for all kind of freelance missions.
 
   
 Site web d’une société de déménagement.  
-Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.  
+Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.    
 _Technologies :  
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
@@ -33,7 +33,7 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
     
 Site web d’un cabinet d’avocats.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.  
-_Technologies :  
+_Technologies :    
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
 ### [Risun Epi](https://risunepi.com/)
@@ -43,7 +43,7 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
   
 Usine de fabrication de masques.   
 Page du site web en maintenance.  
-_Technologies :  
+_Technologies :    
 Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 
 ## Other projects :
@@ -53,13 +53,13 @@ Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 
 ![Screenshot 2020-12-31 at 16 37 05](https://user-images.githubusercontent.com/9435304/103558358-d3d58e00-4eb4-11eb-8f4d-07d8ecc0b128.png)
 ![Screenshot 2021-01-04 at 17 51 19](https://user-images.githubusercontent.com/9435304/103558823-873e8280-4eb5-11eb-8648-feddad69b5f8.png)
-<img src="https://user-images.githubusercontent.com/9435304/103690896-a9a7cd00-4f95-11eb-8185-292af623c2f1.png" width="31.33%"><img src="https://user-images.githubusercontent.com/9435304/103691056-d8be3e80-4f95-11eb-9d24-452dc822276a.png" width="31.33%" align="right"><img src="https://user-images.githubusercontent.com/9435304/103691093-eb387800-4f95-11eb-8532-d54c03dcca83.png" width="31.33%" align="right">
+<img src="https://user-images.githubusercontent.com/9435304/103690896-a9a7cd00-4f95-11eb-8185-292af623c2f1.png" width="30%"><img src="https://user-images.githubusercontent.com/9435304/103691056-d8be3e80-4f95-11eb-9d24-452dc822276a.png" width="30%" align="right"><img src="https://user-images.githubusercontent.com/9435304/103691093-eb387800-4f95-11eb-8532-d54c03dcca83.png" width="30%" align="right">
 <img src="https://user-images.githubusercontent.com/9435304/103691119-fa1f2a80-4f95-11eb-8e49-d01f58d88843.png" width="48%"><img src="https://user-images.githubusercontent.com/9435304/103691148-06a38300-4f96-11eb-841f-c51044f4545e.png" width="48%" align="right">
 
 Comparateur de fournisseur d’énergie pour le conté de New York. Développement front-end et back-end.
 Réalisation du design et de la maquette du site web.
 Intégration du mode de paiement en ligne.
-_Technologies :
+_Technologies :  
 Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 
 ### Cai Media,
@@ -73,5 +73,5 @@ Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 Réalisation du design et de la maquette de l’application de diffusion des vidéos publicitaire. Réalisation de l’application sous Android.
 Réalisation du design et de la maquette du back-office (gestion du status des écrans, du contenu diffusé, listing des clients).
 Développement front-end et back-end.
-Technologies :
+Technologies :  
 Sketch, Ruby on Rails, Javascript, jQuery, Android.
