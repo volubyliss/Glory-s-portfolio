@@ -73,6 +73,6 @@ _Technologies :
 Écrans Android publicitaire déstinés à être mis en place dans différentes boutiques (tabac, pharmacies...).
 Réalisation du design et de la maquette de l’application de diffusion des vidéos publicitaire. Réalisation de l’application sous Android.
 Réalisation du design et de la maquette du back-office (gestion du status des écrans, du contenu diffusé, listing des clients).
-Développement front-end et back-end.
-_Technologies :  
+Développement front-end et back-end.  
+_Technologies :    
 **Sketch, Ruby on Rails, Javascript, jQuery, Android.**_
