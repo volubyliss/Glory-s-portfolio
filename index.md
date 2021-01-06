@@ -23,7 +23,7 @@ Actually i'm looking for all kind of freelance missions.
 Site web d’une société de déménagement.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.    
 _Technologies :  
-Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
+**Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.**_
 
 
 ### [Publica Avocats](https://www.publica-avocats.com/)
@@ -34,7 +34,7 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
 Site web d’un cabinet d’avocats.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.  
 _Technologies :    
-Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
+**Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.**_
 
 ### [Risun Epi](https://risunepi.com/)
 
@@ -44,7 +44,7 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
 Usine de fabrication de masques.   
 Page du site web en maintenance.  
 _Technologies :    
-Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
+**Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git.**_
 
 ## Other projects :
 
@@ -61,7 +61,7 @@ Comparateur de fournisseur d’énergie pour le conté de New York. Développeme
 Réalisation du design et de la maquette du site web.
 Intégration du mode de paiement en ligne.
 _Technologies :  
-Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
+**Sketch, Ruby on Rails, Javascript, jQuery, Stripe.**_
 
 ### Cai Media,
 
@@ -74,5 +74,5 @@ Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 Réalisation du design et de la maquette de l’application de diffusion des vidéos publicitaire. Réalisation de l’application sous Android.
 Réalisation du design et de la maquette du back-office (gestion du status des écrans, du contenu diffusé, listing des clients).
 Développement front-end et back-end.
-Technologies :  
-Sketch, Ruby on Rails, Javascript, jQuery, Android.
+_Technologies :  
+**Sketch, Ruby on Rails, Javascript, jQuery, Android.**_
