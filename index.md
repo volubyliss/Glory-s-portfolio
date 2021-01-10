@@ -22,8 +22,8 @@ Actually i'm looking for all kind of freelance missions.
   
 Site web d’une société de déménagement.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.    
-_Technologies :  
-**Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.**_
+_**Technologies :  
+Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.**_
 
 
 ### [Publica Avocats](https://www.publica-avocats.com/)
@@ -43,8 +43,8 @@ _Technologies :
   
 Usine de fabrication de masques.   
 Page du site web en maintenance.  
-_Technologies :    
-**Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git.**_
+_**Technologies :    
+Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git.**_
 
 ## Other projects :
 
@@ -60,8 +60,8 @@ _Technologies :
 Comparateur de fournisseur d’énergie pour le conté de New York. Développement front-end et back-end.
 Réalisation du design et de la maquette du site web.
 Intégration du mode de paiement en ligne.
-_Technologies :  
-**Sketch, Ruby on Rails, Javascript, jQuery, Stripe.**_
+_**Technologies :  
+Sketch, Ruby on Rails, Javascript, jQuery, Stripe.**_
 
 ### Cai Media,
 
@@ -74,5 +74,5 @@ _Technologies :
 Réalisation du design et de la maquette de l’application de diffusion des vidéos publicitaire. Réalisation de l’application sous Android.
 Réalisation du design et de la maquette du back-office (gestion du status des écrans, du contenu diffusé, listing des clients).
 Développement front-end et back-end.  
-_Technologies :    
-**Sketch, Ruby on Rails, Javascript, jQuery, Android.**_
+_**Technologies :    
+Sketch, Ruby on Rails, Javascript, jQuery, Android.**_
