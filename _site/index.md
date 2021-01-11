@@ -1,14 +1,14 @@
 # Welcome to Glory's Portfolio :)
 
-Développeur web depuis plus de 5ans, j'ai réalisé, en tant que freelance, plusieurs sites vitrines pour diverses entreprises ( cabinet d'avocats, entreprise de transports et déménagement, vente en ligne d'e-cigarettes, bagagerie de luxe... ).   
+<!-- Développeur web depuis plus de 5ans, j'ai réalisé, en tant que freelance, plusieurs sites vitrines pour diverses entreprises ( cabinet d'avocats, entreprise de transports et déménagement, vente en ligne d'e-cigarettes, bagagerie de luxe... ).   
 Mon champs de compétences comprend : l'administration du serveur, la gestion DNS, le développement front-end ( HTML5, SCSS, SCSS3, JavaScript, jQuery, ReactJS, Ruby on Rails ), la création de la maquette ( design UI et UX ) ( Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés ), et si nécessaire le développement back-end ( Ruby on Rails/PostgreSQL, mySQL ).
 Je suis toujours prête à travailler sur de nouveaux projets.
-Je suis disponible pour toutes sortes de missions freelance, de durée variable et je n'hésite, en aucun cas, à acquérir de nouvelles compétences. 
+Je suis disponible pour toutes sortes de missions freelance, de durée variable et je n'hésite, en aucun cas, à acquérir de nouvelles compétences.  -->
   
-I am a freelance web developer since 2015.
+<!-- I am a freelance web developer since 2015.
 I am always eager to work on new project, I like to acquire new skills and and I am not afraid to face the difficulties of programming.  
 I've worked on several projects (web app, android app). I also created few websites in Ruby on Rails, JavaScript, jQuery, PostgreSQL, through the whole products pipeline (UX and UI design, DNS management, development, deployment, instances management, instances maintenance).  
-Actually i'm looking for all kind of freelance missions. 
+Actually i'm looking for all kind of freelance missions.  -->
  
 
 
