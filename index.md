@@ -31,8 +31,13 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
     
 Site web d’un cabinet d’avocats.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.  
+<<<<<<< HEAD
 _Technologies :    
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
+=======
+_**Technologies :    
+Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.**_
+>>>>>>> c655d20652c08de6bbd6326a567cef56bf56a8bf
 
 ### [Risun Epi](https://risunepi.com/)
 
