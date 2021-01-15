@@ -1,7 +1,7 @@
 # Welcome to Glory's Portfolio :)
 
-Développeur web depuis plus de 5ans, j'ai réalisé, en tant que freelance, plusieurs sites vitrines pour diverses entreprises ( cabinet d'avocats, entreprise de transports et déménagement, vente en ligne d'e-cigarettes, bagagerie de luxe... ).   
-Mon champs de compétences comprend : l'administration du serveur, la gestion DNS, le développement front-end ( HTML5, SCSS, SCSS3, JavaScript, jQuery, ReactJS, Ruby on Rails ), la création de la maquette ( design UI et UX ) ( Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés ), et si nécessaire le développement back-end ( Ruby on Rails/PostgreSQL, mySQL ).
+Développeuse web depuis plus de 5ans, j'ai réalisé, en tant que freelance, plusieurs sites pour diverses entreprises ( cabinet d'avocats, entreprise de transports et déménagement, vente en ligne d'e-cigarettes, bagagerie de luxe... ).   
+Mon champs de compétences comprend : le développement front-end ( HTML5, SCSS, SCSS3, JavaScript, jQuery, ReactJS, Ruby on Rails ), la création de la maquette ( design UI et UX ) ( Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés ), l'administration du serveur, la gestion DNS,  le développement back-end ( Ruby on Rails/PostgreSQL, mySQL ).
 Je suis toujours prête à travailler sur de nouveaux projets.
 Je suis disponible pour toutes sortes de missions freelance, de durée variable et je n'hésite, en aucun cas, à acquérir de nouvelles compétences. 
   
@@ -12,8 +12,6 @@ Actually i'm looking for all kind of freelance missions.  -->
  
 
 
-## Online projects :
-
 ### [Déménagement Débarras Transport Français](https://www.demenagement-ddtf.com/)
 
 
@@ -22,8 +20,8 @@ Actually i'm looking for all kind of freelance missions.  -->
   
 Site web d’une société de déménagement.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.    
-_**Technologies :  
-Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.**_
+_Technologies :  
+Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
 
 ### [Publica Avocats](https://www.publica-avocats.com/)
@@ -33,8 +31,8 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
     
 Site web d’un cabinet d’avocats.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.  
-_**Technologies :    
-Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git.**_
+_Technologies :    
+Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
 ### [Risun Epi](https://risunepi.com/)
 
@@ -43,10 +41,9 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
   
 Usine de fabrication de masques.   
 Page du site web en maintenance.  
-_**Technologies :    
-Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git.**_
+_Technologies :    
+Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 
-## Other projects :
 
 ### Heynergy, 
 
@@ -60,8 +57,8 @@ Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git.**_
 Comparateur de fournisseur d’énergie pour le conté de New York. Développement front-end et back-end.
 Réalisation du design et de la maquette du site web.
 Intégration du mode de paiement en ligne.
-_**Technologies :  
-Sketch, Ruby on Rails, Javascript, jQuery, Stripe.**_
+_Technologies :  
+Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 
 ### Cai Media,
 
@@ -74,5 +71,5 @@ Sketch, Ruby on Rails, Javascript, jQuery, Stripe.**_
 Réalisation du design et de la maquette de l’application de diffusion des vidéos publicitaire. Réalisation de l’application sous Android.
 Réalisation du design et de la maquette du back-office (gestion du status des écrans, du contenu diffusé, listing des clients).
 Développement front-end et back-end.  
-_**Technologies :    
+_Technologies :    
 Sketch, Ruby on Rails, Javascript, jQuery, Android.**_
