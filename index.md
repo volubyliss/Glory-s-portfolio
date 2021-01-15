@@ -11,7 +11,6 @@ I've worked on several projects (web app, android app). I also created few websi
 Actually i'm looking for all kind of freelance missions.  -->
  
 
-<img src="https://user-images.githubusercontent.com/9435304/104745600-8f68ae80-574e-11eb-84ae-8ac1c1a03263.png" width="25">
 ### [Déménagement Débarras Transport Français](https://www.demenagement-ddtf.com/)
 
 
