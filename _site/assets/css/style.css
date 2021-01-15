@@ -320,12 +320,13 @@ a:hover { text-decoration: underline; }
 
 body { color: #3a506b; }
 
-a { color: #3623CD; text-decoration: none; }
+a { color: #3a506b; text-decoration: none; }
+a:hover { color: #6081a9; text-decoration: none; }
 
-.page-header { color: #ffff; background-color: #3623CD; background-position: center; background-repeat: no-repeat; background-size: cover; height: 100%; background-image: url("https://user-images.githubusercontent.com/9435304/103675657-7eff4980-4f80-11eb-9634-c7d10ed3818e.jpg"); }
+.page-header { color: #ffff; background-color: #3623CD; background-position: center; background-repeat: no-repeat; background-size: cover; height: 100%; background-image: linear-gradient(0deg, rgba(1, 1, 7, 0.5), rgba(1, 1, 7, 0.5)), url("https://user-images.githubusercontent.com/9435304/103675657-7eff4980-4f80-11eb-9634-c7d10ed3818e.jpg"); }
 
 .main-content img { padding: 10px; }
 
-.main-content h1, .main-content h2 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #1d1150; }
+.main-content h1, .main-content h2 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #3a506b; }
 
-.main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #3623CD; }
+.main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #3a506b; }
