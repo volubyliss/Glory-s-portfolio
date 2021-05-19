@@ -27,6 +27,7 @@ _Technologies :
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
 
+
 ### [Publica Avocats](https://www.publica-avocats.com/)
 
 
@@ -39,6 +40,7 @@ Law firm’s web site.
 Realization of the design, the model, front-end development, production, maintenance of the web site and server administration.  
 _Technologies :      
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
+
 
 
 ### [Le Blog Publica Avocats](https://leblog.publica-avocats.com/)
@@ -55,13 +57,6 @@ _Technologies :
 WordPress._
 
 
-## Eclips-Vapes
-
-
-Site de vente en ligne de cigarette électronique.
-Réalisation du design, de la maquette, développement du site e-commerce Shopify. Technologies :
-Shopify, Paypal.
-
 
 ### [Risun Epi](https://risunepi.com/)
 
@@ -75,6 +70,21 @@ Medical equipment manufacturing plant.
 maintenance web site page.  
 _Technologies :      
 Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
+
+
+
+## Eclips-Vapes
+
+
+![eclips](https://user-images.githubusercontent.com/9435304/118842743-c18b4800-b8c9-11eb-9369-c0f9276df385.png)
+
+Site de vente en ligne de cigarette électronique.
+Réalisation du design, de la maquette, développement du site e-commerce Shopify.
+
+Electronic cigarette e-commerce web site.
+Realization of the design, the model, front-end development of the e-commerce Shopify web site .  
+Technologies :
+Shopify, Paypal.
 
 
 
@@ -95,6 +105,8 @@ New York County Energy Supplier Comparator ’s web site.
 Realization of the design, the model, front-end and back-end development, Intégration of payment method.  
 _Technologies :    
 Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
+
+
 
 ### Cai Media - Imedia-Cloud
 
