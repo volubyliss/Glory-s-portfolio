@@ -19,7 +19,10 @@ Actually i'm looking for all kind of freelance missions.
 
   
 Site web d’une société de déménagement.  
-Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.    
+Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.
+
+Moving Company’s web site.
+Realization of the design, the model, front-end development, production, maintenance of the web site and server administration. 
 _Technologies :  
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
@@ -30,9 +33,13 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
 [![Publica-Avocats](https://user-images.githubusercontent.com/9435304/103362862-04cf5080-4aba-11eb-8fc6-30da9d21d588.png)](https://www.publica-avocats.com/)
     
 Site web d’un cabinet d’avocats.  
-Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.  
+Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.
+
+Law firm’s web site.
+Realization of the design, the model, front-end development, production, maintenance of the web site and server administration.
 _Technologies :    
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
+
 
 ### [Risun Epi](https://risunepi.com/)
 
