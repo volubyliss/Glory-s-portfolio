@@ -47,7 +47,10 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
 [![Risun Epi](https://user-images.githubusercontent.com/9435304/103365816-3bf53000-4ac1-11eb-964d-c94c4b92684e.png)](https://risunepi.com/)
   
 Usine de fabrication de masques.   
-Page du site web en maintenance.  
+Page du site web en maintenance.
+
+Medical equipment manufacturing plant.
+maintenance web site page.
 _Technologies :    
 Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 
@@ -65,10 +68,13 @@ Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 Comparateur de fournisseur d’énergie pour le conté de New York. Développement front-end et back-end.
 Réalisation du design et de la maquette du site web.
 Intégration du mode de paiement en ligne.
+
+New York County Energy Supplier Comparator ’s web site.
+Realization of the design, the model, front-end and back-end development, Intégration of payment method.
 _Technologies :  
 Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 
-### Cai Media
+### Cai Media - Imedia-Cloud
 
 
 ![001-login page](https://user-images.githubusercontent.com/9435304/103559552-9a058700-4eb6-11eb-9042-d2c91a719fed.png)
@@ -78,6 +84,11 @@ Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 Écrans Android publicitaire déstinés à être mis en place dans différentes boutiques (tabac, pharmacies...).
 Réalisation du design et de la maquette de l’application de diffusion des vidéos publicitaire. Réalisation de l’application sous Android.
 Réalisation du design et de la maquette du back-office (gestion du status des écrans, du contenu diffusé, listing des clients).
-Développement front-end et back-end.  
+Développement front-end et back-end.
+
+Android advertising screens intended to be set up in differents stores.
+Realization of the design and the model of the advertising video broadcast application. Realization of the Android application.
+Realization of the design and the model of back-office (screens status, broadcast content, clients listing).
+front-end and back-end development.
 _Technologies :    
 Sketch, Ruby on Rails, Javascript, jQuery, Android._
