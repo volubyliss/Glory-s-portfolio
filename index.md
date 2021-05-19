@@ -41,6 +41,22 @@ _Technologies :
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
 
+### [Le Blog Publica Avocats](https://leblog.publica-avocats.com/)
+
+
+[![Leblog Publica Avocats](https://user-images.githubusercontent.com/9435304/118825668-2ab78f00-b8bb-11eb-8dc4-9f2862951154.png)]
+
+Le blog de Publica-Avocats.
+Réalisation du design et de la maquette, développement front-end du blog WordPress.
+
+Publica-Avocats’s blog.
+Realization of the design, the model, front-end development of the WordPress ’s blog.
+_Technologies :
+WordPress.
+
+
+
+
 ### [Risun Epi](https://risunepi.com/)
 
 
