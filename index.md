@@ -51,7 +51,7 @@ Réalisation du design et de la maquette, développement front-end du blog WordP
 
 Publica-Avocats’s blog.
 Realization of the design, the model, front-end development of the WordPress ’s blog.
-_Technologies :
+_Technologies :  
 WordPress._
 
 
