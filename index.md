@@ -22,8 +22,8 @@ Site web d’une société de déménagement.
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.
 
 Moving Company’s web site.
-Realization of the design, the model, front-end development, production, maintenance of the web site and server administration. 
-_Technologies :  
+Realization of the design, the model, front-end development, production, maintenance of the web site and server administration.   
+_Technologies :    
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
 
@@ -36,8 +36,8 @@ Site web d’un cabinet d’avocats.
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.
 
 Law firm’s web site.
-Realization of the design, the model, front-end development, production, maintenance of the web site and server administration.
-_Technologies :    
+Realization of the design, the model, front-end development, production, maintenance of the web site and server administration.  
+_Technologies :      
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
 
@@ -50,8 +50,8 @@ Le blog de Publica-Avocats.
 Réalisation du design et de la maquette, développement front-end du blog WordPress.
 
 Publica-Avocats’s blog.
-Realization of the design, the model, front-end development of the WordPress ’s blog.
-_Technologies :  
+Realization of the design, the model, front-end development of the WordPress ’s blog.  
+_Technologies :    
 WordPress._
 
 
@@ -66,8 +66,8 @@ Usine de fabrication de masques.
 Page du site web en maintenance.
 
 Medical equipment manufacturing plant.
-maintenance web site page.
-_Technologies :    
+maintenance web site page.  
+_Technologies :      
 Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 
 
@@ -86,8 +86,8 @@ Réalisation du design et de la maquette du site web.
 Intégration du mode de paiement en ligne.
 
 New York County Energy Supplier Comparator ’s web site.
-Realization of the design, the model, front-end and back-end development, Intégration of payment method.
-_Technologies :  
+Realization of the design, the model, front-end and back-end development, Intégration of payment method.  
+_Technologies :    
 Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 
 ### Cai Media - Imedia-Cloud
@@ -105,6 +105,6 @@ Développement front-end et back-end.
 Android advertising screens intended to be set up in differents stores.
 Realization of the design and the model of the advertising video broadcast application. Realization of the Android application.
 Realization of the design and the model of back-office (screens status, broadcast content, clients listing).
-front-end and back-end development.
-_Technologies :    
+front-end and back-end development.  
+_Technologies :      
 Sketch, Ruby on Rails, Javascript, jQuery, Android._
