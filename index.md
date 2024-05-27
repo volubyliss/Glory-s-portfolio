@@ -17,11 +17,13 @@ Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions fre
  
 ## SITES WEB
 
-### *[EPHORY]*(https://ephorycommunication.com/)
+### [*Ephory*](https://ephorycommunication.com/)
+
+[![Ephory](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7caca40e-8ba0-42ea-9991-ab40440d92ee)](https://ephorycommunication.com/)
 
 
  
-### [Déménagement Débarras Transport Français](https://www.demenagement-ddtf.com/)
+### [*Déménagement Débarras Transport Français*](https://www.demenagement-ddtf.com/)
 
 
 [![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)](https://www.demenagement-ddtf.com/)
@@ -52,7 +54,7 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
 
 
 
-### [Le Blog Publica Avocats](https://leblog.publica-avocats.com/)
+### [*Le Blog Publica Avocats*](https://leblog.publica-avocats.com/)
 
 
 [![Leblog Publica Avocats](https://user-images.githubusercontent.com/9435304/118825668-2ab78f00-b8bb-11eb-8dc4-9f2862951154.png)](https://leblog.publica-avocats.com/)  
@@ -67,7 +69,7 @@ WordPress._
 
 
 
-### Risun Epi
+### *Risun Epi*
 
 
 ![Risun Epi](https://user-images.githubusercontent.com/9435304/103365816-3bf53000-4ac1-11eb-964d-c94c4b92684e.png)
@@ -82,7 +84,7 @@ Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 
 
 
-### Eclips-Vapes
+### *Eclips-Vapes*
 
 
 ![eclips](https://user-images.githubusercontent.com/9435304/118842743-c18b4800-b8c9-11eb-9369-c0f9276df385.png)
@@ -97,7 +99,7 @@ Shopify, Paypal.
 
 
 
-### Heynergy 
+### *Heynergy* 
 
 
 ![Screenshot 2020-12-31 at 16 37 05](https://user-images.githubusercontent.com/9435304/103558358-d3d58e00-4eb4-11eb-8f4d-07d8ecc0b128.png)
@@ -117,7 +119,7 @@ Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 
 
 
-### Cai Media - Imedia-Cloud
+### *Cai Media - Imedia-Cloud*
 
 
 ![001-login page](https://user-images.githubusercontent.com/9435304/103559552-9a058700-4eb6-11eb-9042-d2c91a719fed.png)
