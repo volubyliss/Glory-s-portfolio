@@ -1,7 +1,8 @@
 # Welcome to Glory's Portfolio :)
 
-Glory Bourlier, développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory
-glory@ephory.fr
+Glory Bourlier,\
+développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory\
+glory@ephory.fr\
 07.69.13.43.70
 
 Développeuse web 8 ans, j'ai réalisé, en tant que freelance, plusieurs sites pour diverses entreprises ( cabinet d'avocats, entreprise de transports et déménagement, vente en ligne d'e-cigarettes, bagagerie de luxe... ).   
@@ -16,7 +17,7 @@ Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions fre
  
 ## SITES WEB
 
-### [EPHORY](https://ephorycommunication.com/)
+### *[EPHORY]*(https://ephorycommunication.com/)
 
 
  
