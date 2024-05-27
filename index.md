@@ -12,8 +12,9 @@ et la création de visuels pour des publications sur les réseaux sociaux.
 Dans ce cadre j'ai co-fondé Ephory, une marque, regroupant deux freelances, Ophélie Masshenser et moi. 
 Le but étant de travailler en binome sur des projets à impactes, répondant à nos valeurs, en alliant nos forces et nos qualités.
 
-Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions freelance, de durée variable et je n'hésite, en aucun cas, à acquérir de nouvelles compétences. 
+Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions freelance, de durée variable et je n'hésite, en aucun cas, à acquérir de nouvelles compétences.
 
+## PRINTS 
  
 ## SITES WEB
 
