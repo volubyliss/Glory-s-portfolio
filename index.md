@@ -24,6 +24,16 @@ Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions fre
 
 ### *Les Champs Potes*
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/4da099dc-ce29-4a58-ba26-d4a3812e1f05" width="33.33%" align="left"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d75642f3-9c33-4b5b-aef8-b9039233f924" width="33.33%" align="center"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/85fe2cdf-9fb6-45b5-b4db-00c89f3a0cab" width="25%" align="right">
+
+
+
+## COMMUNITY MANAGEMENT
+
+### *LES SOURCES DE GULÈNE*
+
+
+### *DÉCROISSANCE, LE FESTIVAL*
+
  
 ## SITES WEB
 
