@@ -5,6 +5,7 @@ développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory\
 glory@ephory.fr\
 07.69.13.43.70
 
+
 Développeuse web 8 ans, j'ai réalisé, en tant que freelance, plusieurs sites pour diverses entreprises ( cabinet d'avocats, entreprise de transports et déménagement, vente en ligne d'e-cigarettes, bagagerie de luxe... ).   
 Mon champs de compétences comprend : le développement front-end ( HTML5, SCSS, SCSS3, JavaScript, jQuery, ReactJS, Ruby on Rails ), la création de la maquette ( design UI et UX ) ( Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés ), l'administration du serveur, la gestion DNS,  le développement back-end ( Ruby on Rails/PostgreSQL, mySQL ).
 Depuis 2022, je me suis diversifié en appronfondissant mes compétences en design UI et UX pour la création de prints (flyers, cartes de visite, étiquettes),
