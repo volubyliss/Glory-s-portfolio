@@ -15,6 +15,13 @@ Le but étant de travailler en binome sur des projets à impactes, répondant à
 Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions freelance, de durée variable et je n'hésite, en aucun cas, à acquérir de nouvelles compétences.
 
 ## PRINTS 
+
+### *Ephory*
+
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/fb5b8461-ef4c-4947-950c-f32adb6c01ea" width="100%" align="left">
+
+### *Les Champs Potes*
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/4da099dc-ce29-4a58-ba26-d4a3812e1f05" width="33.33%" align="left"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/4da099dc-ce29-4a58-ba26-d4a3812e1f05" width="33.33%" align="center"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/85fe2cdf-9fb6-45b5-b4db-00c89f3a0cab" width="25%" align="right">
  
 ## SITES WEB
 
