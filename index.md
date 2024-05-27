@@ -37,7 +37,7 @@ Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions fre
 
 
 ### *DÉCROISSANCE, LE FESTIVAL*
-
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/38850be5-94e0-4f3c-9d79-520c0f52445e" width="20%">
  
 ## SITES WEB
 
