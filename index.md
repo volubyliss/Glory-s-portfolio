@@ -18,7 +18,7 @@ Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions fre
 
 ### *Ephory*
 
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d7e4594d-b671-4f0c-badc-f3229bbd7912" width="40%" align="left"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/20be7d40-dbc5-45a4-b0db-7d5d66788a2e" width="40%" align="right">  
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d7e4594d-b671-4f0c-badc-f3229bbd7912" width="45%" align="left"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/20be7d40-dbc5-45a4-b0db-7d5d66788a2e" width="45%" >  
 
 
 
