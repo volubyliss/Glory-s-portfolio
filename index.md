@@ -33,7 +33,7 @@ Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions fre
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d684292e-0bf7-4b4c-942d-545165c18452" width="20%" align="left">
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a0780386-f4f5-4989-9865-04a8d7d29455" width="20%">
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/814e7f2a-590f-4d7d-a9d6-65ae6628820e" width="20%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/9162342c-8deb-4efa-a3b3-c78b88eea8c3" width="20%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/e4cb7c06-279b-48cb-9616-3150d674cd95" width="20%">
 
 
 ### *DÉCROISSANCE, LE FESTIVAL*
