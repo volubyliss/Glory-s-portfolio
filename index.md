@@ -40,7 +40,7 @@ Flyer affiche recto-verso
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d7da1eb0-c98f-4068-ab3b-58e21321095c" width="19%">
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a861a88a-abb1-4c92-b3f3-e3d562945fe9" width="19%">
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/b4e8d493-1e87-446e-a7dd-533fe4a535bc" width="19%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/52023ee0-3eb0-46da-9fa1-44468b6ae95f" width="19%>
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/52023ee0-3eb0-46da-9fa1-44468b6ae95f" width="19%">
 
 ### *DÉCROISSANCE, LE FESTIVAL*
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/3cfd271e-a136-4615-89ad-1c8215c68613" width="24%">
