@@ -6,14 +6,18 @@ glory@ephory.fr\
 07.69.13.43.70*
 
 
-Développeuse web 8 ans, j'ai réalisé, en tant que freelance, plusieurs sites pour diverses entreprises ( cabinet d'avocats, entreprise de transports et déménagement, vente en ligne d'e-cigarettes, bagagerie de luxe... ).   
-Mon champs de compétences comprend : le développement front-end ( HTML5, SCSS, SCSS3, JavaScript, jQuery, ReactJS, Ruby on Rails ), la création de la maquette ( design UI et UX ) ( Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés ), l'administration du serveur, la gestion DNS,  le développement back-end ( Ruby on Rails/PostgreSQL, mySQL ).
-Depuis 2022, je me suis diversifié en appronfondissant mes compétences en design UI et UX pour la création de prints (flyers, cartes de visite, étiquettes),
-et la création de visuels pour des publications sur les réseaux sociaux.
-Dans ce cadre j'ai co-fondé Ephory, une marque, regroupant deux freelances, Ophélie Masshenser et moi. 
-Le but étant de travailler en binome sur des projets à impactes, répondant à nos valeurs, en alliant nos forces et nos qualités.
+Freelance développeuse web depuis 8 ans, mon champ de compétences comprend :\ 
+- le développement front-end (HTML5, SCSS, SCSS3, JavaScript, jQuery, ReactJS, Ruby on Rails )\
+- la création de maquettes (design UI et UX sous Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés),\
+- l’administration du serveur,\ 
+- la gestion DNS,\ 
+- le développement back-end (Ruby on Rails/PostgreSQL, mySQ).
+  
 
-Je suis disponible seule ou en binôme Ephory pour toutes sortes de missions freelance, de durée variable et je n'hésite, en aucun cas, à acquérir de nouvelles compétences.
+Voici quelques exemples de structures pour lesquelles j'ai réalisé un site internet : cabinet d’avocats, entreprise de transports et déménagement, vente en ligne d’e-cigarettes, bagagerie de luxe, eco-lieu
+Depuis 2022, je me suis diversifiée en appronfondissant mes compétences en design UI et UX pour la création de prints (flyers, cartes de visite, étiquettes), et la création de visuels pour des publications sur les réseaux sociaux. 
+Dans ce cadre j’ai co-fondé Ephory, une marque, regroupant deux freelances, Ophélie Masshenser et moi-même. Le but étant de travailler en binôme sur des projets à impact, répondant à nos valeurs et en alliant nos forces et nos qualités.
+Je suis disponible seule ou en binôme pour vous accompagner dans la création de votre site internet ou tout autre besoin en communication digitale.
 
 ## PRINTS 
 
