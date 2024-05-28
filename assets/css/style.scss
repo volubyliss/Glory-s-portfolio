@@ -19,7 +19,7 @@ a {
 .page-header {
   color:#0C1359;
   // background-color:#3623CD;
-  background: linear-gradient(to bottom right, #FBF0EF 0%, #8D4EC4 40%, #CC3366 60%,#FF521B 80%, #EFAC14 100%);
+  background: linear-gradient(to bottom, #FBF0EF 0%, #8D4EC4 40%, #CC3366 60%,#FF521B 80%, #EFAC14 100%);
 //   background-image:linear-gradient(120deg,#5073B8,#A067AB);
   background-position: center;
   background-repeat: no-repeat;
@@ -38,6 +38,9 @@ a {
     margin-bottom: 1rem;
     font-weight: normal;
     color: #8D4EC4;
+}
+.main-content h2 {
+  box-shadow: 12px 12px 2px 1px #FF521B;
 }
 .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   color: #8D4EC4; 
