@@ -85,7 +85,7 @@ Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git
 
 ### *Le Blog Publica Avocats*
 
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/44f3ee22-d53e-48f3-ae89-109344db9ddb" 
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/44f3ee22-d53e-48f3-ae89-109344db9ddb" >
 
 Le blog de Publica-Avocats.
 Réalisation du design et de la maquette, développement front-end du blog WordPress.
