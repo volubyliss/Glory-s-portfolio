@@ -36,11 +36,11 @@ Flyer affiche recto-verso
 *Quelques exemples de publications*
 
 ### *LES SOURCES DE GULÈNE*
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/1184e7f2-fd09-44e5-b17d-0ba1631f0e4a" width="15%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d7da1eb0-c98f-4068-ab3b-58e21321095c" width="15%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a861a88a-abb1-4c92-b3f3-e3d562945fe9" width="15%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/b4e8d493-1e87-446e-a7dd-533fe4a535bc" width="15%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/0ba48e72-e304-432e-b037-a39b5a2523a4" width="15%>
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/1184e7f2-fd09-44e5-b17d-0ba1631f0e4a" width="19%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d7da1eb0-c98f-4068-ab3b-58e21321095c" width="19%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a861a88a-abb1-4c92-b3f3-e3d562945fe9" width="19%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/b4e8d493-1e87-446e-a7dd-533fe4a535bc" width="19%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/52023ee0-3eb0-46da-9fa1-44468b6ae95f" width="19%>
 
 ### *DÉCROISSANCE, LE FESTIVAL*
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/3cfd271e-a136-4615-89ad-1c8215c68613" width="24%">
