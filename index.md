@@ -59,13 +59,13 @@ Flyer affiche recto-verso
 
 ### [*Ephory*](https://ephorycommunication.com/)
 
-[![Ephory](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7caca40e-8ba0-42ea-9991-ab40440d92ee)](https://ephorycommunication.com/)]
+[![Ephory](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7caca40e-8ba0-42ea-9991-ab40440d92ee)](https://ephorycommunication.com/)
  Site web en construction.
 
  
 ### [*Déménagement Débarras Transport Français*](https://www.demenagement-ddtf.com/)
 
-[![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)](https://www.demenagement-ddtf.com/)]
+[![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)](https://www.demenagement-ddtf.com/)
   
 Site web d’une société de déménagement.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.
