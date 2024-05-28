@@ -4,8 +4,9 @@
 développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory\
 glory@ephory.fr\
 07.69.13.43.70*\
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/06b3184d-19a0-42ef-ae90-5d4f68585196" width="50px"> [*Mon Instagram*](https://www.instagram.com/pasgloppaglop/) [*Mon LinkedIn*](www.linkedin.com/in/glory-bourlier-ephory)\
-[*L'Instagram d'Ephory*](https://www.instagram.com/ephory_com/) [*Le LinkedIn d'Ephory*](www.linkedin.com/in/glory-bourlier-ephory)
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/06b3184d-19a0-42ef-ae90-5d4f68585196" width="50px" align="left"> [*Mon Instagram*](https://www.instagram.com/pasgloppaglop/) 
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/aaed8b9a-ebdc-4508-98af-9db9d68cc7ed" width="50px" align="left"> [*Mon LinkedIn*](www.linkedin.com/in/glory-bourlier-ephory)\
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/bf312c92-e4cd-4ea0-a787-a8241b42eee3" width="50px" align="left"> [*L'Instagram d'Ephory*](https://www.instagram.com/ephory_com/) <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7f9fb9a5-2d17-4c3c-8911-d7b348398b4b" width="50px" align="left"> [*Le LinkedIn d'Ephory*](www.linkedin.com/in/glory-bourlier-ephory)
 
 Freelance développeuse web depuis 8 ans, mon champ de compétences comprend : 
 - le développement front-end (HTML5, SCSS, SCSS3, JavaScript, jQuery, Ruby on Rails )
@@ -13,10 +14,10 @@ Freelance développeuse web depuis 8 ans, mon champ de compétences comprend :
 - l’administration du serveur, 
 - la gestion DNS, 
 - le développement back-end (Ruby on Rails/PostgreSQL, mySQL).
-  ![Frame 11](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/aaed8b9a-ebdc-4508-98af-9db9d68cc7ed)
+  
 ![Frame 12](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7f9fb9a5-2d17-4c3c-8911-d7b348398b4b)
-![Frame 13](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/bf312c92-e4cd-4ea0-a787-a8241b42eee3)
-![Frame 14](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/06b3184d-19a0-42ef-ae90-5d4f68585196)
+
+
 
 Voici quelques exemples de structures pour lesquelles j'ai réalisé un site internet : cabinet d’avocats, entreprise de transports et déménagement, vente en ligne d’e-cigarettes, bagagerie de luxe, eco-lieu.
 Depuis 2022, je me suis diversifiée en appronfondissant mes compétences en design UI et UX pour la création de prints (flyers, cartes de visite, étiquettes), et la création de visuels pour des publications sur les réseaux sociaux. 
