@@ -3,8 +3,8 @@
 *Glory Bourlier,\
 développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory\
 glory@ephory.fr\
-07.69.13.43.70*
-[*Mon Instagram*](https://www.instagram.com/pasgloppaglop/) [*Mon LinkedIn*](www.linkedin.com/in/glory-bourlier-ephory) 
+07.69.13.43.70*\
+[*Mon Instagram*](https://www.instagram.com/pasgloppaglop/) [*Mon LinkedIn*](www.linkedin.com/in/glory-bourlier-ephory)\
 [*L'Instagram d'Ephory*](https://www.instagram.com/ephory_com/) [*Le LinkedIn d'Ephory*](www.linkedin.com/in/glory-bourlier-ephory)
 
 Freelance développeuse web depuis 8 ans, mon champ de compétences comprend : 
