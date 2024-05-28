@@ -4,11 +4,11 @@
 développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory\
 glory@ephory.fr\
 07.69.13.43.70*
-[*Mon Instagram*](https://www.instagram.com/pasgloppaglop/)[![Mon Insta](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a794947e-be38-48ae-b9d2-6d1966048703)] 
+[*Mon Instagram*](https://www.instagram.com/pasgloppaglop/)[![Mon Insta](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a794947e-be38-48ae-b9d2-6d1966048703)][*Mon LinkedIn*](www.linkedin.com/in/glory-bourlier-ephory) [![Mon LinkedIn](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/422cdff5-0125-4219-a64c-688fcb776836)]
 
 
 ![insta-color](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/61b69de8-afe9-45fc-bb3d-4a1a52258341)
-![Frame 12](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/422cdff5-0125-4219-a64c-688fcb776836)
+
 ![Frame 11](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a0260750-d9a4-4672-b2fd-9c7a5539a453)
 Freelance développeuse web depuis 8 ans, mon champ de compétences comprend :\ 
 - le développement front-end (HTML5, SCSS, SCSS3, JavaScript, jQuery, ReactJS, Ruby on Rails )\
