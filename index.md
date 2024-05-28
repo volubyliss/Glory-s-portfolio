@@ -27,10 +27,10 @@ Flyer affiche recto-verso
 
 ### *Les Champs Potes*
 
+
 *Flyer recto-verso, étiquette*
 
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/4da099dc-ce29-4a58-ba26-d4a3812e1f05" width="33.33%"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d75642f3-9c33-4b5b-aef8-b9039233f924" width="33.33%"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/85fe2cdf-9fb6-45b5-b4db-00c89f3a0cab" width="25%">
-
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a7b6d41e-2600-45f5-8b5b-e351da004728" width="33.33%"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/f55673c8-24ec-4a6a-9458-f43cf62a0bbf" width="33.33%"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/c91d4b22-f414-473f-afdf-371947b834ef" width="25%">
 
 
 ## COMMUNITY MANAGEMENT
@@ -45,10 +45,10 @@ Flyer affiche recto-verso
 
 
 ### *DÉCROISSANCE, LE FESTIVAL*
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/38850be5-94e0-4f3c-9d79-520c0f52445e" width="24%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/037243b4-4bcf-4430-87df-77cf5b0877c7" width="24%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/b4339165-3467-4ad8-b604-ee3287e11d39" width="24%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/86a6745a-7160-4414-9dfe-9350ba9b938e" width="24%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/3cfd271e-a136-4615-89ad-1c8215c68613" width="24%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/8886c6fd-b168-4dd0-bb4d-aaa55be67836" width="24%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/011ab7bb-399a-4e02-bc2b-bc8041a3402e" width="24%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d728c8a6-419a-4a7e-8146-feb836beb141" width="24%">
  
 ## SITES WEB
 
