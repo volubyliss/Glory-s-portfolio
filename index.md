@@ -15,10 +15,6 @@ Freelance développeuse web depuis 8 ans, mon champ de compétences comprend :
 - l’administration du serveur, 
 - la gestion DNS, 
 - le développement back-end (Ruby on Rails/PostgreSQL, mySQL).
-  
-![Frame 12](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7f9fb9a5-2d17-4c3c-8911-d7b348398b4b)
-
-
 
 Voici quelques exemples de structures pour lesquelles j'ai réalisé un site internet : cabinet d’avocats, entreprise de transports et déménagement, vente en ligne d’e-cigarettes, bagagerie de luxe, eco-lieu.
 Depuis 2022, je me suis diversifiée en appronfondissant mes compétences en design UI et UX pour la création de prints (flyers, cartes de visite, étiquettes), et la création de visuels pour des publications sur les réseaux sociaux. 
