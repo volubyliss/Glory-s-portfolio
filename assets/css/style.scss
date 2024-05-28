@@ -19,7 +19,7 @@ a {
 .page-header {
   color:#0C1359;
   // background-color:#3623CD;
-  background: linear-gradient(to bottom, #FBF0EF 0%, #8D4EC4 20%, #CC3366 60%,#FF521B 90%, #EFAC14 100%);
+  background: linear-gradient(to bottom,#8D4EC4 0%, #CC3366 60%,#FF521B 90%, #EFAC14 100%);
 //   background-image:linear-gradient(120deg,#5073B8,#A067AB);
   background-position: center;
   background-repeat: no-repeat;
@@ -30,6 +30,8 @@ a {
 //   background-image: url("https://user-images.githubusercontent.com/9435304/103680701-d7d1e080-4f86-11eb-8342-587d56d906bd.jpg");
   
 }
+.page-header h1 {
+  text-shadow: 0.1em 0.1em #FBF0EF;
 .main-content img {
   padding: 10px;
 }
