@@ -4,8 +4,11 @@
 développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory\
 glory@ephory.fr\
 07.69.13.43.70*
+[*Mon Instagram*](https://www.instagram.com/pasgloppaglop/)[!(https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a794947e-be38-48ae-b9d2-6d1966048703)] 
 
-
+![insta-color](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/61b69de8-afe9-45fc-bb3d-4a1a52258341)
+![Frame 12](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/422cdff5-0125-4219-a64c-688fcb776836)
+![Frame 11](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a0260750-d9a4-4672-b2fd-9c7a5539a453)
 Freelance développeuse web depuis 8 ans, mon champ de compétences comprend :\ 
 - le développement front-end (HTML5, SCSS, SCSS3, JavaScript, jQuery, ReactJS, Ruby on Rails )\
 - la création de maquettes (design UI et UX sous Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés),\
@@ -63,7 +66,7 @@ Flyer affiche recto-verso
  
 ### [*Déménagement Débarras Transport Français*](https://www.demenagement-ddtf.com/)
 
-[![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)](https://www.demenagement-ddtf.com/)
+[![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)](https://www.demenagement-ddtf.com/)]
   
 Site web d’une société de déménagement.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.
