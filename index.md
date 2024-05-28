@@ -7,15 +7,15 @@ glory@ephory.fr\
 [*Mon Instagram*](https://www.instagram.com/pasgloppaglop/) [*Mon LinkedIn*](www.linkedin.com/in/glory-bourlier-ephory) 
 [*L'Instagram d'Ephory*](https://www.instagram.com/ephory_com/) [*Le LinkedIn d'Ephory*](www.linkedin.com/in/glory-bourlier-ephory)
 
-Freelance développeuse web depuis 8 ans, mon champ de compétences comprend :\ 
-- le développement front-end (HTML5, SCSS, SCSS3, JavaScript, jQuery, ReactJS, Ruby on Rails )\
-- la création de maquettes (design UI et UX sous Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés),\
-- l’administration du serveur,\ 
-- la gestion DNS,\ 
-- le développement back-end (Ruby on Rails/PostgreSQL, mySQ).
+Freelance développeuse web depuis 8 ans, mon champ de compétences comprend : 
+- le développement front-end (HTML5, SCSS, SCSS3, JavaScript, jQuery, Ruby on Rails )
+- la création de maquettes (design UI et UX sous Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés),
+- l’administration du serveur, 
+- la gestion DNS, 
+- le développement back-end (Ruby on Rails/PostgreSQL, mySQL).
   
 
-Voici quelques exemples de structures pour lesquelles j'ai réalisé un site internet : cabinet d’avocats, entreprise de transports et déménagement, vente en ligne d’e-cigarettes, bagagerie de luxe, eco-lieu
+Voici quelques exemples de structures pour lesquelles j'ai réalisé un site internet : cabinet d’avocats, entreprise de transports et déménagement, vente en ligne d’e-cigarettes, bagagerie de luxe, eco-lieu.
 Depuis 2022, je me suis diversifiée en appronfondissant mes compétences en design UI et UX pour la création de prints (flyers, cartes de visite, étiquettes), et la création de visuels pour des publications sur les réseaux sociaux. 
 Dans ce cadre j’ai co-fondé Ephory, une marque, regroupant deux freelances, Ophélie Masshenser et moi-même. Le but étant de travailler en binôme sur des projets à impact, répondant à nos valeurs et en alliant nos forces et nos qualités.
 Je suis disponible seule ou en binôme pour vous accompagner dans la création de votre site internet ou tout autre besoin en communication digitale.
