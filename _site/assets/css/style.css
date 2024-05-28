@@ -318,7 +318,8 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-body { color: #3a506b; }
+body {color: #0C1359;
+  background-color: #FBF0EF; }
 
 a { color: #3a506b; text-decoration: none; }
 a:hover { color: #6081a9; text-decoration: none; }
