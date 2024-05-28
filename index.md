@@ -4,7 +4,8 @@
 développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory\
 glory@ephory.fr\
 07.69.13.43.70*
-[*Mon Instagram*](https://www.instagram.com/pasgloppaglop/)[!(https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a794947e-be38-48ae-b9d2-6d1966048703)] 
+[*Mon Instagram*](https://www.instagram.com/pasgloppaglop/)[![Mon Insta](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a794947e-be38-48ae-b9d2-6d1966048703)] 
+
 
 ![insta-color](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/61b69de8-afe9-45fc-bb3d-4a1a52258341)
 ![Frame 12](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/422cdff5-0125-4219-a64c-688fcb776836)
@@ -60,7 +61,7 @@ Flyer affiche recto-verso
 
 ### [*Ephory*](https://ephorycommunication.com/)
 
-[![Ephory](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7caca40e-8ba0-42ea-9991-ab40440d92ee)](https://ephorycommunication.com/)
+[![Ephory](https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7caca40e-8ba0-42ea-9991-ab40440d92ee)](https://ephorycommunication.com/)]
  Site web en construction.
 
  
