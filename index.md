@@ -4,9 +4,9 @@
 développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory\
 glory@ephory.fr\
 07.69.13.43.70*\
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/06b3184d-19a0-42ef-ae90-5d4f68585196" width="50px" align="left"> [*Mon Instagram*](https://www.instagram.com/pasgloppaglop/) 
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/aaed8b9a-ebdc-4508-98af-9db9d68cc7ed" width="50px" align="left"> [*Mon LinkedIn*](www.linkedin.com/in/glory-bourlier-ephory)\
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/bf312c92-e4cd-4ea0-a787-a8241b42eee3" width="50px" align="left"> [*L'Instagram d'Ephory*](https://www.instagram.com/ephory_com/) <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7f9fb9a5-2d17-4c3c-8911-d7b348398b4b" width="50px" align="left"> [*Le LinkedIn d'Ephory*](www.linkedin.com/in/glory-bourlier-ephory)
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/06b3184d-19a0-42ef-ae90-5d4f68585196" width="50px" > [*Mon Instagram*](https://www.instagram.com/pasgloppaglop/) 
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/aaed8b9a-ebdc-4508-98af-9db9d68cc7ed" width="50px" > [*Mon LinkedIn*](www.linkedin.com/in/glory-bourlier-ephory)\
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/bf312c92-e4cd-4ea0-a787-a8241b42eee3" width="50px" > [*L'Instagram d'Ephory*](https://www.instagram.com/ephory_com/) <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/7f9fb9a5-2d17-4c3c-8911-d7b348398b4b" width="50px" > [*Le LinkedIn d'Ephory*](www.linkedin.com/in/glory-bourlier-ephory)
 
 Freelance développeuse web depuis 8 ans, mon champ de compétences comprend : 
 - le développement front-end (HTML5, SCSS, SCSS3, JavaScript, jQuery, Ruby on Rails )
