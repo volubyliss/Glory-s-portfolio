@@ -1,9 +1,9 @@
 # Welcome to Glory's Portfolio :)
 
-Glory Bourlier,\
+*Glory Bourlier,\
 développeuse Fullstack, web-designeuse et co-fondatrice d'Ephory\
 glory@ephory.fr\
-07.69.13.43.70
+07.69.13.43.70*
 
 
 Développeuse web 8 ans, j'ai réalisé, en tant que freelance, plusieurs sites pour diverses entreprises ( cabinet d'avocats, entreprise de transports et déménagement, vente en ligne d'e-cigarettes, bagagerie de luxe... ).   
@@ -24,9 +24,7 @@ Flyer affiche recto-verso
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d7e4594d-b671-4f0c-badc-f3229bbd7912" width="45%" align="left"> <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/20be7d40-dbc5-45a4-b0db-7d5d66788a2e" width="45%" >  
 
 
-
 ### *Les Champs Potes*
-
 
 *Flyer recto-verso, étiquette*
 
@@ -38,17 +36,18 @@ Flyer affiche recto-verso
 *Quelques exemples de publications*
 
 ### *LES SOURCES DE GULÈNE*
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d684292e-0bf7-4b4c-942d-545165c18452" width="24%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a0780386-f4f5-4989-9865-04a8d7d29455" width="24%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/814e7f2a-590f-4d7d-a9d6-65ae6628820e" width="24%">
-<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/e4cb7c06-279b-48cb-9616-3150d674cd95" width="24%">
-
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/1184e7f2-fd09-44e5-b17d-0ba1631f0e4a" width="15%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d7da1eb0-c98f-4068-ab3b-58e21321095c" width="15%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/a861a88a-abb1-4c92-b3f3-e3d562945fe9" width="15%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/b4e8d493-1e87-446e-a7dd-533fe4a535bc" width="15%">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/0ba48e72-e304-432e-b037-a39b5a2523a4" width="15%>
 
 ### *DÉCROISSANCE, LE FESTIVAL*
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/3cfd271e-a136-4615-89ad-1c8215c68613" width="24%">
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/8886c6fd-b168-4dd0-bb4d-aaa55be67836" width="24%">
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/011ab7bb-399a-4e02-bc2b-bc8041a3402e" width="24%">
 <img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/d728c8a6-419a-4a7e-8146-feb836beb141" width="24%">
+
  
 ## SITES WEB
 
@@ -60,9 +59,7 @@ Flyer affiche recto-verso
  
 ### [*Déménagement Débarras Transport Français*](https://www.demenagement-ddtf.com/)
 
-
 [![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)](https://www.demenagement-ddtf.com/)
-
   
 Site web d’une société de déménagement.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.
@@ -73,11 +70,9 @@ _Technologies :
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
 
-
 ### *Publica Avocats*
 
-
-<img src="https://user-images.githubusercontent.com/9435304/103362862-04cf5080-4aba-11eb-8fc6-30da9d21d588.png)">
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/3e12a4f7-2e3e-4567-a312-cbff5f8107b6">
     
 Site web d’un cabinet d’avocats.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.
@@ -88,11 +83,9 @@ _Technologies :
 Sketch, Photopea, Ruby on Rails, Javascript, jQuery, PostgreSQL, Capistrano, Git._
 
 
+### *Le Blog Publica Avocats*
 
-### [*Le Blog Publica Avocats*](https://leblog.publica-avocats.com/)
-
-
-[![Leblog Publica Avocats](https://user-images.githubusercontent.com/9435304/118825668-2ab78f00-b8bb-11eb-8dc4-9f2862951154.png)](https://leblog.publica-avocats.com/)  
+<img src="https://github.com/volubyliss/Glory-s-portfolio/assets/9435304/44f3ee22-d53e-48f3-ae89-109344db9ddb" 
 
 Le blog de Publica-Avocats.
 Réalisation du design et de la maquette, développement front-end du blog WordPress.
@@ -103,9 +96,7 @@ _Technologies :
 WordPress._
 
 
-
 ### *Risun Epi*
-
 
 ![Risun Epi](https://user-images.githubusercontent.com/9435304/103365816-3bf53000-4ac1-11eb-964d-c94c4b92684e.png)
   
@@ -118,9 +109,7 @@ _Technologies :
 Sketch, Photopea, Ruby on Rails, PostgreSQL, Capistrano, Git._
 
 
-
 ### *Eclips-Vapes*
-
 
 ![eclips](https://user-images.githubusercontent.com/9435304/118842743-c18b4800-b8c9-11eb-9369-c0f9276df385.png)
 
@@ -133,14 +122,11 @@ Technologies :
 Shopify, Paypal.
 
 
-
 ### *Heynergy* 
-
 
 ![Screenshot 2020-12-31 at 16 37 05](https://user-images.githubusercontent.com/9435304/103558358-d3d58e00-4eb4-11eb-8f4d-07d8ecc0b128.png)
 ![Screenshot 2021-01-04 at 17 51 19](https://user-images.githubusercontent.com/9435304/103558823-873e8280-4eb5-11eb-8648-feddad69b5f8.png)
 <img src="https://user-images.githubusercontent.com/9435304/103690896-a9a7cd00-4f95-11eb-8185-292af623c2f1.png" width="33.33%" ><img src="https://user-images.githubusercontent.com/9435304/103691056-d8be3e80-4f95-11eb-9d24-452dc822276a.png" width="33.33%" ><img src="https://user-images.githubusercontent.com/9435304/103691093-eb387800-4f95-11eb-8532-d54c03dcca83.png" width="33.33%" >    
-
 <img src="https://user-images.githubusercontent.com/9435304/103691119-fa1f2a80-4f95-11eb-8e49-d01f58d88843.png" width="50%"><img src="https://user-images.githubusercontent.com/9435304/103691148-06a38300-4f96-11eb-841f-c51044f4545e.png" width="50%">
 
 Comparateur de fournisseur d’énergie pour le conté de New York. Développement front-end et back-end.
@@ -153,9 +139,7 @@ _Technologies :
 Sketch, Ruby on Rails, Javascript, jQuery, Stripe._
 
 
-
 ### *Cai Media - Imedia-Cloud*
-
 
 ![001-login page](https://user-images.githubusercontent.com/9435304/103559552-9a058700-4eb6-11eb-9042-d2c91a719fed.png)
 ![002-welcome Admin](https://user-images.githubusercontent.com/9435304/103559574-a558b280-4eb6-11eb-9bfa-c02ee59e4fe3.png)
