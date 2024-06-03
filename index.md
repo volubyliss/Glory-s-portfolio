@@ -10,7 +10,7 @@ glory@ephory.fr\
 - [*Le LinkedIn d'Ephory*](https://www.linkedin.com/company/ephorycommunication/?viewAsMember=true)
 
 Freelance développeuse web depuis 8 ans, mon champ de compétences comprend : 
-- le développement front-end (HTML5, SCSS, SCSS3, JavaScript, jQuery, Ruby on Rails )
+- le développement front-end (HTML5, SCSS, CSS3, JavaScript, jQuery, Ruby on Rails )
 - la création de maquettes (design UI et UX sous Sketch, Figma, Photopea, Gimp ou tout autres outils dédiés),
 - l’administration du serveur, 
 - la gestion DNS, 
