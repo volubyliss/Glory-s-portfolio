@@ -65,7 +65,7 @@ Flyer affiche recto-verso
  
 ### [*Déménagement Débarras Transport Français*]
 
-[![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)]
+![DDTF](https://user-images.githubusercontent.com/9435304/103358761-a81e6680-4ab6-11eb-8bdb-cd93987e4cfc.png)
   
 Site web d’une société de déménagement.  
 Réalisation du design, de la maquette, du développement, de la mise en production et maintenance du site vitrine.
